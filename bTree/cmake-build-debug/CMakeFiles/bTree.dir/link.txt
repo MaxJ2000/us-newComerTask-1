@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/bTree.dir/main.cpp.o  -o bTree 
