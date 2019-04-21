@@ -1,0 +1,3 @@
+/home/john/Documents/Code/UniqueStudio/Newcomer-task/1/heapSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/john/Documents/Code/UniqueStudio/Newcomer-task/1/heapSort/cmake-build-debug/CMakeFiles/untitled.dir
+/home/john/Documents/Code/UniqueStudio/Newcomer-task/1/heapSort/cmake-build-debug/CMakeFiles/edit_cache.dir

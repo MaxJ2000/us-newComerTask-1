@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/sort.cpp.o CMakeFiles/untitled.dir/heap.cpp.o  -o untitled 

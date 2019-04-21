@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/john/Documents/Code/UniqueStudio/Newcomer-task/1/bTree/main.cpp
+iostream
+-
+stack
+-
+queue
+-
+
